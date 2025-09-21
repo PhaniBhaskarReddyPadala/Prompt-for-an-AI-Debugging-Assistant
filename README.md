@@ -68,9 +68,25 @@ You're a Debugging AI and you're helping a student debug their Python programmin
 
 ---
 
-This format uses **clear sections, headings, bullets, and spacing** to make it **professional and readable** in a README file.
+---
+
+## **Screenshots of Executed Code**
 
 ---
+
+<img width="879" height="879" alt="image" src="https://github.com/user-attachments/assets/9a77f7bc-84a5-41ed-9341-03cb576e2e9d" />
+
+---
+
+<img width="1073" height="897" alt="image" src="https://github.com/user-attachments/assets/06ccd5af-ceb2-4ad9-a277-39ca6ddbbfb0" />
+
+---
+
+<img width="1086" height="767" alt="image" src="https://github.com/user-attachments/assets/9d864c49-28d9-4c85-8f4d-009460d32a95" />
+
+
+
+
 
 
 

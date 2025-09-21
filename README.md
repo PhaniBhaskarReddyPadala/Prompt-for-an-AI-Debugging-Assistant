@@ -70,7 +70,8 @@ You're a Debugging AI and you're helping a student debug their Python programmin
 
 ---
 
-## **Screenshots of Executed Code with prompt**
+
+## AI Debugging Response 
 
 ---
 
